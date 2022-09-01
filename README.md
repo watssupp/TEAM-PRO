@@ -15,7 +15,7 @@ Generated an HTML page using Node.js command line that gives discription of empl
 ```
 
 ## Screen shots
-
+img
 ![Alt](./img/TEAM-PRO-GEN%201.png)
 ![Alt](./img/TEAM-PRO-GEN%202.png)
 
