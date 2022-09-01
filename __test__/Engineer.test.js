@@ -2,7 +2,7 @@ const Employee = require('../lib/Employee');
 const Engineer = require('../lib/Engineer');
 
 test('creates an engineer object', () => {
-    const engineer = new Engineer('Howard');
+    const engineer = new Engineer('Char');
 });
 
 test('set github account with constructor', () => {
